@@ -1,0 +1,7 @@
+export const ADD_LINK = 'ADD_LINK'
+export const FETCH_LINKS = 'FETCH_LINKS'
+export const UP_VOTE = 'UP_VOTE'
+export const DOWN_VOTE = 'DOWN_VOTE'
+export const SORT_LINKS = 'SORT_LINKS'
+export const CHANGE_PAGE = 'CHANGE_PAGE'
+export const REMOVE_LINK = 'REMOVE_LINK'
